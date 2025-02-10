@@ -1,4 +1,6 @@
 # Site Build Settings
+url: https://fredgibbs.github.io
+baseurl: /Millennial/
 
 # jekyll-paginate configuration
 paginate:            5
